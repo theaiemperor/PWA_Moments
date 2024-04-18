@@ -13,7 +13,7 @@ function openCreatePostModal() {
       console.log(choiceResult.outcome);
 
       if (choiceResult.outcome === 'dismissed') {
-        console.log('User cacelled the installation.')
+        console.log('User cancelled the installation.')
       } else {
         console.log('App installed by user.')
       };
