@@ -1,0 +1,22 @@
+{
+  "name": "pwa_moments",
+  "version": "1.0.0",
+  "description": "Building a simple Instagram clone.",
+  "main": "",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Arman",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
